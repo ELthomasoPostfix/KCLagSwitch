@@ -1,0 +1,17 @@
+# Do not clutter the repository with .dll dependencies.
+# Legally, we must not commit the game's .dll files.
+# To avoid clutter, we do not commit the MelonLoader .dll files.
+assemblies/*
+
+# JetBrains project settings.
+.idea/
+
+# General and Rider-specific artefacts.
+bin/
+obj/
+/packages/
+riderModule.iml
+
+# ReSharper config.
+/_ReSharper.Caches/
+*.DotSettings.user
