@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KCLagSwitch", "KCLagSwitch\KCLagSwitch.csproj", "{F41ACF3A-0D10-4C5B-8EB8-2A248F5F7B92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F41ACF3A-0D10-4C5B-8EB8-2A248F5F7B92}.Release|x86.ActiveCfg = Release|x86
+		{F41ACF3A-0D10-4C5B-8EB8-2A248F5F7B92}.Release|x86.Build.0 = Release|x86
+		{F41ACF3A-0D10-4C5B-8EB8-2A248F5F7B92}.Debug|x86.ActiveCfg = Debug|x86
+		{F41ACF3A-0D10-4C5B-8EB8-2A248F5F7B92}.Debug|x86.Build.0 = Debug|x86
+	EndGlobalSection
+EndGlobal
